@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Angelishere1
-- 👀 I’m interested in ...codin and auditing 
+- 👀 I’m interested in ...codin and smart contract auditing 
 - 🌱 I’m currently learning .. coding 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...via Discord 
